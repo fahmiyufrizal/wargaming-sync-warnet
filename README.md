@@ -16,7 +16,7 @@ Wargaming.net tanpa install di client, sync otomatis server-client
 ## Petunjuk lain
 
 - Jalankan server.exe lagi bila terjadi kesalahan di bagian client maupun setelah memindah game foldernya
-- 
+
 ## Lisensi
 
 - Open-Source, cukup jangan ganti nama filenya saja. Batch boleh diextract dan diedit sesuai kebutuhan
