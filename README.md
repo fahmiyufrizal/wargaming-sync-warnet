@@ -9,7 +9,7 @@ Wargaming.net tanpa install di client, sync otomatis server-client
 
 ## Instalasi dan cara menggunakan
 
-1. Taruh folder _fahmiyufrizal, client.exe dan server.exe di folder yang berisi wgc.exe seisinya
+1. Taruh folder _fahmiyufrizal, client.exe dan server.exe di berdampingan dengan folder GameCenter (contoh E:\Wargaming.net\GameCenter)
 2. Jalankan server.exe terlebih dahulu
 3. Jika sudah, buat shortcut untuk client.exe di game launcher masing masing (Dianjurkan Shortcut game WoWs (World of Warships) untuk diarahkan ke client.exe)
 
