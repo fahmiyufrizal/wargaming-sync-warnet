@@ -4,7 +4,7 @@ Wargaming.net tanpa install di client, sync otomatis server-client
 
 ## Sebelum menggunakan Tools
 
-1. Install wargaming.net sampai selesai di server
+1. Install wargaming.net sampai selesai di server dan pastikan menginstall di gamedisk, bukan di C:\
 2. Setting gamepath seperti biasa (intinya sampai terdeteksi gamenya)
 
 ## Instalasi dan cara menggunakan
